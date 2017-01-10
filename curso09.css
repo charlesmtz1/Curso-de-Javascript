@@ -1,0 +1,11 @@
+/*CSS para uso exclusivo del ejercicio */
+
+.mi_clase {
+    background: red;
+    padding: 10px;
+}
+
+.mi_clase2{
+    background: blue;
+    padding: 10px;
+}
